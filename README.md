@@ -1,21 +1,65 @@
-# MusicBypass
+# 🎵 MusicBypass
 
-A local-first music dashboard with shared listening and a desktop shell.
+MusicBypass is a **Windows-focused desktop music application** that allows users to listen to music live or offline through a modern, user-friendly interface.  
+The project is currently optimized for **Windows (.exe)**, with limited mobile access available via a tunnel option.
 
-## What you get
-- `MusicBypassPortable.exe`: one-file portable app. Double-click to run. Uses Node.js v24.3.0 (installer will prompt if needed). Use `--debug` to see consoles.
-- `StartMusicBypass.exe`: starts the server and opens the desktop window. Use `--debug` to see the server console.
-- `StartTunnel.exe`: starts the server and a Cloudflare quick tunnel; prints a public URL. Use `--debug` for full logs.
+> ⚠️ This project is in active development and represents an early release.
 
-## Quick start
-1) Install Node.js **v24.3.0** (launchers prompt to install/upgrade if missing).
-2) Double-click `MusicBypassPortable.exe` (or `StartMusicBypass.exe` if already extracted).
-3) Optional: run `StartTunnel.exe` to share via a quick tunnel (requires `cloudflared` on PATH).
+---
 
-## Auto-update (stub)
-- The app can check a manifest URL for updates; replace the placeholder manifest URL in code with your hosted manifest (e.g., GitHub Releases).
-- On a new version, it will prompt, download, replace the EXE, and restart.
+## ✨ Features
 
-## Notes
-- Portable build no longer rebuilds native modules; matching Node version avoids ABI issues.
-- Node and tunnel tools are required on the host if you use tunneling.
+- 🎧 **Live music playback**
+- 📥 **Offline playback**
+  - Download tracks or full playlists
+  - Listen offline, similar to how streaming platforms handle offline content
+- 🔍 **Search** for:
+  - Tracks  
+  - Albums  
+  - Playlists  
+  - Artists
+- 📂 **Save and manage playlists**
+- 📑 **Queue system** for continuous playback
+- 🧭 **Explore section** to discover new music
+- 📚 **Library** for saved and downloaded content
+- 🏠 **Dynamic home page**
+  - Updates based on user listening preferences
+- 🎨 **Multiple themes** for UI customization
+- 🖥️ **Clean, user-friendly interface**, optimized for desktop use
+
+---
+
+## 🖥️ Platform Support
+
+- **Windows**: Fully supported (primary platform)
+- **Mobile**: Limited / experimental access via tunnel option
+
+---
+
+## 🔐 Privacy & Data Handling
+
+- All user data is **stored locally** on the user's device
+- No external data transfers or cloud storage are used
+- No user data is shared with third parties
+
+---
+
+## 🚀 Project Status
+
+MusicBypass is an **early-stage project** and is actively evolving.  
+Expect frequent updates, improvements, and occasional breaking changes as new features are introduced.
+
+---
+
+## ⚠️ Legal & Usage Notice
+
+MusicBypass is intended **for educational and experimental purposes only**.  
+Users are encouraged to support artists and platforms by using official music services and exploring their subscription options.  
+This project does **not** aim to violate copyright laws or bypass legal protections.
+
+---
+
+## 💬 Feedback & Contributions
+
+Feedback, bug reports, and feature suggestions are welcome!  
+Feel free to open an issue or submit a pull request to help improve the project.
