@@ -51,10 +51,11 @@ Expect frequent updates, improvements, and occasional breaking changes as new fe
 
 ---
 
-## 📜 License (IMPORTANT)
+## 📜 License (MANDATORY)
 
-This project is released under a **strict license**.
+MusicBypass is released under a **strict proprietary license**.
 
-You are **required to read and comply with the LICENSE** before using, modifying, or distributing this project.  
-The license is located at:
+You are **legally required** to read and comply with the license terms **before**
+using, accessing, or interacting with this project in any way.
 
+📄 The full license is located at: ./LICENSE
