@@ -51,15 +51,10 @@ Expect frequent updates, improvements, and occasional breaking changes as new fe
 
 ---
 
-## ⚠️ Legal & Usage Notice
+## 📜 License (IMPORTANT)
 
-MusicBypass is intended **for educational and experimental purposes only**.  
-Users are encouraged to support artists and platforms by using official music services and exploring their subscription options.  
-This project does **not** aim to violate copyright laws or bypass legal protections.
+This project is released under a **strict license**.
 
----
+You are **required to read and comply with the LICENSE** before using, modifying, or distributing this project.  
+The license is located at:
 
-## 💬 Feedback & Contributions
-
-Feedback, bug reports, and feature suggestions are welcome!  
-Feel free to open an issue or submit a pull request to help improve the project.
