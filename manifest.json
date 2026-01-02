@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3.0",
-  "launcher_url": "https://musicbypass.online/download",
-  "portable_url": "https://musicbypass.online/download"
+  "version": "1.2.2.0",
+  "launcher_url": "https://github.com/SMART-K3Y/MusicBypass/releases/download/V1.2.2/InstallMusicBypass.exe",
+  "portable_url": "https://github.com/SMART-K3Y/MusicBypass/releases/download/V1.2.2/MusicBypassPortable.exe"
 }
