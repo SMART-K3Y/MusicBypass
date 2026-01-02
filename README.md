@@ -1,4 +1,4 @@
-# 🎵 MusicBypass
+[# 🎵 MusicBypass
 
 MusicBypass is a **Windows-focused desktop music application** that allows users to listen to music live or offline through a modern, user-friendly interface.  
 The project is currently optimized for **Windows (.exe)**, with limited mobile access available via a tunnel option.
@@ -59,3 +59,4 @@ You are **legally required** to read and comply with the license terms **before*
 using, accessing, or interacting with this project in any way.
 
 📄 The full license is located at: ./LICENSE
+](https://i.imgur.com/ISo5aEZ.jpeg)
