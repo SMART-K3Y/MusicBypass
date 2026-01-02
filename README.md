@@ -11,6 +11,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/SMART-K3Y/MusicBypass)
 [![Status](https://img.shields.io/badge/Status-Early%20Access-orange?style=for-the-badge)](https://github.com/SMART-K3Y/MusicBypass)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://github.com/SMART-K3Y/MusicBypass/blob/main/LICENSE)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-Support%20Development-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/smartkey001)
 
 <br />
 
@@ -117,10 +118,14 @@ You are **legally required** to read and comply with the license terms **before*
 
 <div align="center">
 
-Need help? Want to suggest a feature? Join the official **Bypass Team** server.
+Need help, want to suggest a feature, or support the project?
 
 <a href="https://discord.gg/XamVTQpMa2">
   <img src="https://img.shields.io/badge/Discord-Join%20The%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Join Discord" />
+</a>
+&nbsp;
+<a href="https://ko-fi.com/smartkey001">
+  <img src="https://img.shields.io/badge/Ko--fi-Buy%20us%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" height="40" alt="Support on Ko-fi" />
 </a>
 
 <br /><br />
